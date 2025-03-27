@@ -15,7 +15,7 @@ function Footer() {
       <p>contact@cakeshop.com</p>
       </div>
 
-      <div className='w-[350px] text-center flex flex-col items-center gap-12'>
+      <div className='w-full max-w-[350px] text-center flex flex-col items-center gap-12'>
         <div className='flex flex-col items-center'>
           <i className='text-red-500 text-8xl'><TbMoustache /></i>
           <h1 className='text-2xl font-bold leading-2'>NAROSUNDAR</h1>
