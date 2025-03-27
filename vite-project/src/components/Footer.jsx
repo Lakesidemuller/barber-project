@@ -20,7 +20,7 @@ function Footer() {
           <i className='text-red-500 text-8xl'><TbMoustache /></i>
           <h1 className='text-2xl font-bold leading-2'>NAROSUNDAR</h1>
         </div>
-        <p className='w-[250px] text-gray-400 font-light'>There are many variations of passages of Loremn Ipsum availble to the majority</p>
+        <p className='md:w-[250px] text-gray-400 font-light'>There are many variations of passages of Loremn Ipsum availble to the majority</p>
         <div className='flex gap-16 text-2xl'>
           <i><FaFacebook /></i>
           <i><FaInstagram /></i>
@@ -28,7 +28,7 @@ function Footer() {
         </div>
       </div>
 
-      <div className='flex flex-col gap-2'>
+      <div className='flex flex-col gap-2 mt-6'>
         <i className='text-red-500 text-4xl'><FaLocationArrow /></i>
         <h1 className='text-xl font-bold'>CONTACT INFO</h1>
         <p>913-473-7000</p>
