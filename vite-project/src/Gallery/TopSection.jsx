@@ -9,7 +9,7 @@ function TopSection() {
             <div className='flex items-center mx-auto'>
                 <h1 className=' text-white font-bold text-6xl'>Gallery</h1>
             </div>
-            <div className='w-[60%]'>
+            <div className='w-[60%] hidden md:block'>
                 <img src={bwshave} alt="" className='h-full'/>
             </div>
         </div>

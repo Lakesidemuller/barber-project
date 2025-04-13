@@ -9,7 +9,7 @@ function TopServicePage() {
                 <h1 className=' text-white font-bold text-6xl'>Services</h1>
             </div>
 
-            <div className='w-[60%]'>
+            <div className='w-[60%] hidden md:block'>
                 <img src={serviceimg} alt="" className='h-full'/>
             </div>
         </div>
